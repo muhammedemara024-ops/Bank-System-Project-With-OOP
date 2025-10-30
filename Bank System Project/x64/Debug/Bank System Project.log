@@ -1,0 +1,60 @@
+﻿  Bank System Project.cpp
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsString.h(498,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsString.h(502,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsUser.h(188,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+      D:\ProgramminAdvices\C++ OOP (25,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsBankClient.h(430,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+      D:\ProgramminAdvices\C++ OOP (153,12):
+      see declaration of 'clsBankClient::stTransferLog'
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsBankClient.h(30,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsBankClient.h(401,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsBankClient.h(413,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsAddNewClientScreen.h(32,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsAddNewClientScreen.h(32,63): warning C4244:         with
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsAddNewClientScreen.h(32,63): warning C4244:         [
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsAddNewClientScreen.h(32,63): warning C4244:             T=double
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsAddNewClientScreen.h(32,63): warning C4244:         ]
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '../../../C++%20OOP%20#2/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp')
+  
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsBankClient.h(356,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\ProgramminAdvices\C++ OOP #2\Bank System Project\Bank System Project\clsUser.h(346,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank System Project.vcxproj -> D:\ProgramminAdvices\C++ OOP #2\Bank System Project\x64\Debug\Bank System Project.exe
